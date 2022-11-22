@@ -53,3 +53,4 @@ function to load train data in GRAY type.
 ```
 function to load test data in GRAY type.
 ```
+## Credits [EngMohamadIdrees](https://github.com/EngMohamadIdrees) -[Tarek Idrees](https://github.com/TarekIdrees) - [Mohamed Mahmoud](https://github.com/Thesnak)
